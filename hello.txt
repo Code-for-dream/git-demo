@@ -2,3 +2,4 @@ hello world!
 hello git!
 进行一次修改 [hot-fix]
 master test
+hot-fix test
